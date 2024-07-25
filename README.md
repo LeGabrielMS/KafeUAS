@@ -17,4 +17,4 @@ Project Ini Dibuat Guna Memenuhi Tugas Besar UAS Mata Kuliah Pemrograman Berorie
 
 Sekian, Terima Kasih.
 
-File Lengkap Terdapat Di Google Drive: https://drive.google.com/file/d/1Kd9VGVg49Ck9NVB26vOvnf2wHVyTGD16/view?usp=sharing
+File Lengkap Terdapat Di Google Drive: https://drive.google.com/drive/folders/1cOKOYsi4MpQfkFIqPJh79U5RwYrm0ms5?usp=sharing
