@@ -1,12 +1,20 @@
+File "ProjectUASPHP" Di Taruh Di Dalam File xampp/htdocs Agar Dapat Digunakan (Menggunakan XAMPP->Apache Di Port: 80).
+
+Project Ini Menggunakan:
+1. NetBeans Versi 22;
+2. Java JDK 17;
+3. XAMPP;
+4. Database MySQL;
+5. Library MySQL Connector/J: 9.0.0 (Sudah Tersedia Langsung Di Project | Namun Apabila Tidak Ada, Disediakan Juga .jar MySQL Connector Di File Library).
+
+
+Data Diri:
 Nama: Gabriel Marcellino Sinurat
-
 NIM: 22552011043
-
 Kelas: TIF RM - 222MB Online
 
-Project Ini Untuk Memenuhi Tugas Pemrograman Berorientasi Objek 2 Pada Pertemuan 10.
+Project Ini Dibuat Guna Memenuhi Tugas Besar UAS Mata Kuliah Pemrograman Berorientasi Objek 2.
 
-Menggunakan Aplikasi:
+Sekian, Terima Kasih.
 
-1. Apache NetBeans IDE Ver. 22
-2. JDK Ver. 17
+File Lengkap Terdapat Di Google Drive: https://drive.google.com/file/d/1Kd9VGVg49Ck9NVB26vOvnf2wHVyTGD16/view?usp=sharing
