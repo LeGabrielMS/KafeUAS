@@ -10,8 +10,11 @@ Project Ini Menggunakan:
 
 Data Diri:
 Nama: Gabriel Marcellino Sinurat
+
 NIM: 22552011043
+
 Kelas: TIF RM - 222MB Online
+
 
 Project Ini Dibuat Guna Memenuhi Tugas Besar UAS Mata Kuliah Pemrograman Berorientasi Objek 2.
 
