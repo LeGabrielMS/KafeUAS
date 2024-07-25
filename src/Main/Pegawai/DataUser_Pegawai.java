@@ -457,6 +457,7 @@ public class DataUser_Pegawai extends javax.swing.JFrame {
                 loadData();
                 clear();
                 btnTambah.setEnabled(true);
+                txUsername.setEnabled(true);
                 JOptionPane.showMessageDialog(null, "Data Berhasil Diubah", "Barra's Kitchen", JOptionPane.INFORMATION_MESSAGE);
             }
         }
